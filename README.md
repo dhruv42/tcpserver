@@ -33,7 +33,7 @@ TCP server implementation in Golang,
     }
     ```
 ### Problems
-1. Can spin up lot of number of thread which is beyond the system capacity and it is
+1. Can spin up a lot of threads which is beyond the system capacity and it is
 called thread-overloading.
 <hr>
 
